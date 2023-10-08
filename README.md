@@ -23,6 +23,7 @@ Predictive Analysis
    Correlation
 # Descriptive Statistics for Apple’s stock closing price
 In this section of the analysis, we have utilized the closing price of Apple’s stock for the duration of June 1st, 2017, through September 15, 2022. Firstly, we approached finding the log value for the closing price and further proceeded with the data analysis tool to produce the histogram graph. We have transformed the stock’s closing value into a log form. As we can see in the data, the data are in a log-normal distribution, meaning the actual value never takes on a negative value and is always right-skewed; hence, the actual value or the log-normal distribution is always positive. So, to carry out the statistics, we have transformed the actual values into log form in order to analyze the descriptive statistics in a more microscopic way.
+
 <img width="475" alt="image" src="https://github.com/Rajdeep096/Stock-Price-Forecasting/assets/147287417/b9c2f905-81c8-4568-84a8-47107087b9de">
 <img width="257" alt="image" src="https://github.com/Rajdeep096/Stock-Price-Forecasting/assets/147287417/f0b2bbfc-c5a9-4707-a8af-8938f3fc924e">
 
